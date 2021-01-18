@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Mitchell M.",
+        "location": "Cherry Hill, NJ",
+        "category": "Family Law",
+        "rating": 5,
+        "content": "Vivamus lobortis eget arcu a hendrerit. Integer tortor diam, sollicitudin vel diam venenatis, congue mollis velit. Fusce eu faucibus velit. Nullam bibendum ex nec massa gravida vehicula a sed tortor. Vivamus a ornare lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum porta efficitur dictum."
+    },
+    {
+        "name": "Joel C.",
+        "location": "Little Rock, AK",
+        "category": "Job & Employment Law",
+        "rating": 5,
+        "content": "Praesent eu sapien quis nisl vehicula facilisis. Donec interdum porta fringilla. Nulla facilisi. Nulla porttitor odio faucibus nisi lobortis, non ornare est condimentum. Etiam pretium consequat dui, vel dictum ligula mattis eu. Donec tincidunt viverra mauris, vitae molestie neque volutpat ut. Vivamus convallis leo quis arcu ornare finibus. Quisque vehicula quis nisi ut mattis. Mauris eleifend vitae lectus quis scelerisque. Nunc ut nisl vestibulum, commodo nunc quis, porta arcu. Nullam convallis ligula in ligula tincidunt dignissim. Vestibulum ut congue dolor. Aliquam in mauris mollis, bibendum enim quis, dapibus massa."
+    },
+    {
+        "name": "Brigida R.",
+        "location": "Dallas, TX",
+        "category": "Family Law",
+        "rating": 5,
+        "content": "Etiam libero massa, ullamcorper sed commodo nec, tincidunt vitae sapien. Donec magna nulla, congue vitae condimentum vitae, convallis in diam. Proin fermentum ipsum ullamcorper fringilla lobortis. Aliquam eget varius arcu. Etiam nisl nibh, tristique quis congue ut, pharetra in magna. Suspendisse nec dolor odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec sed diam vel tortor blandit accumsan eu nec neque."
+    },
+    {
+        "name": "Jennie H.",
+        "location": "Nacogdoches, TX",
+        "category": "Family Law",
+        "rating": 4,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer faucibus rutrum diam, sit amet bibendum mauris commodo ut. Fusce efficitur mi a ante mattis, vitae feugiat nunc convallis. Cras at massa eu ex euismod efficitur. Nulla vestibulum nibh eu ligula tincidunt gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus lorem vel vestibulum tincidunt. Curabitur a condimentum mauris, quis porttitor dui. Nam maximus nulla lectus, non cursus ex lacinia quis. Donec et facilisis est, at auctor ante. Duis vestibulum risus nisi, vel facilisis quam sagittis tincidunt. Proin ornare, nisl in vestibulum commodo, enim arcu imperdiet nibh, eu dignissim augue lectus quis tellus. Praesent et sapien a eros euismod interdum. In dignissim est at nisl suscipit tristique. Cras odio eros, luctus at felis sed, pellentesque feugiat magna. Sed vestibulum erat vel odio iaculis, ac dictum dui commodo."
+    },
+    {
+        "name": "Thomas G.",
+        "location": "Denver, CO",
+        "category": "Business - Litigation",
+        "rating": 3,
+        "content": "Nam tellus ipsum, lacinia vitae nisl ac, porttitor ullamcorper turpis. Mauris non dictum ex. In maximus sollicitudin sagittis. Duis aliquam scelerisque ipsum vitae dignissim. Sed feugiat dapibus lacinia. Mauris nec massa sapien. Pellentesque porta ligula eget dapibus accumsan. Morbi vel ultricies mauris, vitae tincidunt dui. Etiam tempus eros placerat ex mattis semper. Phasellus auctor, mauris non scelerisque dignissim, ligula risus interdum ipsum, imperdiet tempus odio elit id sem."
+    },
+    {
+        "name": "Sean N.",
+        "location": "Reno, NV",
+        "category": "Criminal Law",
+        "rating": 4,
+        "content": "Etiam scelerisque vestibulum massa, eget finibus lorem posuere vitae. In hac habitasse platea dictumst. Suspendisse lobortis eros purus, sed pharetra massa lacinia semper. Nullam vitae enim a est fringilla iaculis. Aenean pulvinar nisl vitae ipsum tempor, quis elementum est congue. Duis quis accumsan augue, vitae pretium odio. Maecenas tincidunt nibh nec varius lacinia. Cras dictum nulla ac ante accumsan pellentesque. Pellentesque non mauris est. Ut a ornare sem. Nulla vehicula ligula quis neque congue, quis volutpat magna fermentum. Nulla bibendum eget erat eu varius. Donec varius nisl vel sollicitudin pharetra. Donec ut sem non leo commodo faucibus et sed augue. Pellentesque eu congue dolor, quis placerat erat."
+    },
+    {
+        "name": "Randy F.",
+        "location": "Plantation, FL",
+        "category": "Employment and Labor Law",
+        "rating": 5,
+        "content": "Proin vitae auctor quam, quis porttitor magna. Ut pretium ornare lectus, vitae aliquam nunc luctus eu. Maecenas cursus neque eget justo placerat tristique. Sed vulputate ullamcorper sem, sit amet dapibus neque consectetur at. In cursus at orci et eleifend. Donec nibh purus, ornare sit amet tincidunt id, aliquet et ex. Duis at semper sem, et vehicula metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec viverra dui."
+    },
+    {
+        "name": "Angel L.",
+        "location": "Seattle, WA",
+        "category": "Administrative Law",
+        "rating": 4,
+        "content": "Quisque tempor mattis rhoncus. Sed et ex imperdiet, luctus tortor sit amet, aliquam dui. Praesent vitae arcu sit amet dui ultrices vestibulum et ac orci. Aliquam ultrices turpis nec erat mollis, ac lobortis enim auctor. Curabitur aliquet, odio vitae ultricies maximus, diam lorem pulvinar ex, sit amet laoreet est magna vitae orci. Nam aliquam nisi tortor, laoreet volutpat sem placerat ac. Quisque urna ipsum, consequat vitae venenatis eget, vehicula at ex. Curabitur non leo in dui maximus sollicitudin at sed nisi. Aenean et condimentum eros. Curabitur viverra neque id nibh aliquet laoreet. Pellentesque nec vehicula dui. Proin semper mauris vel justo ullamcorper, ac facilisis est eleifend. Donec quis sapien ornare est molestie placerat et vitae mauris. Pellentesque mattis, nisl sed rhoncus ornare, turpis orci pretium massa, quis pharetra nibh erat ac tortor. Nullam nunc enim, scelerisque nec scelerisque eu, malesuada vitae ante. Sed molestie viverra risus, eu lobortis felis sollicitudin ac."
+    },
+    {
+        "name": "Michael Spencer C.",
+        "location": "Lynnwood, WA",
+        "category": "Family Law",
+        "rating": 5,
+        "content": "Morbi blandit elit leo, nec ultrices ligula viverra sed. Phasellus erat ex, accumsan sit amet elementum at, gravida sit amet leo. Nunc cursus vestibulum felis, ac cursus est feugiat eget. Vestibulum feugiat tincidunt dictum. Donec convallis in mi non gravida. Nullam tempor tortor mauris, non blandit magna vehicula eget. Pellentesque porttitor, augue quis porta egestas, justo eros mattis quam, eu finibus turpis lectus scelerisque elit. Cras a efficitur tortor."
+    },
+    {
+        "name": "James J.",
+        "location": "Washington, PA",
+        "category": "Family Law",
+        "rating": 4,
+        "content": "Aliquam gravida nec neque sed sollicitudin. Nullam laoreet pharetra lorem, et congue metus laoreet ac. Donec pulvinar finibus lectus, sed eleifend ipsum. Integer fringilla leo non enim fringilla lacinia. Vestibulum non turpis eu purus hendrerit fermentum. Suspendisse placerat lectus sit amet dui consequat, et tempor mi elementum. Nullam ut egestas odio. Phasellus laoreet ligula sed libero semper, accumsan pulvinar lectus posuere. Sed maximus velit quis sapien faucibus varius. Sed sit amet porttitor diam. Sed pellentesque varius tristique. Mauris sed ullamcorper massa, eget egestas risus."
+    },
+    {
+        "name": "Christopher B.",
+        "location": "New York, NY",
+        "category": "Employment and Labor Law",
+        "rating": 4,
+        "content": "Duis iaculis elit laoreet diam dapibus imperdiet. Integer eleifend augue a augue ultricies, non aliquam nisi gravida. Aenean imperdiet, massa sed dapibus auctor, lorem lorem maximus urna, at porta elit felis in sem. Pellentesque id turpis vitae lacus auctor viverra a non urna. Quisque malesuada est ut malesuada dapibus. Phasellus vel sapien interdum, hendrerit enim sit amet, maximus leo. Maecenas sagittis erat ut urna aliquet, vitae porttitor orci molestie. Donec id felis ornare arcu interdum rhoncus nec dictum erat. Nullam urna ipsum, accumsan vel leo in, mattis imperdiet lorem. Phasellus vitae ante ut urna condimentum cursus. Cras rhoncus vitae lorem non pellentesque. Donec elementum sodales metus nec sollicitudin. Aenean nec urna at lorem iaculis fermentum sit amet ac odio. Curabitur ut facilisis nibh, nec convallis magna. Aenean accumsan lectus dolor, quis finibus metus consectetur id. Duis efficitur tellus non urna pulvinar dapibus."
+    },
+    {
+        "name": "Maxwell L.",
+        "location": "Brookfield, WI",
+        "category": "Employment and Labor Law",
+        "rating": 5,
+        "content": "Sed sed pulvinar ligula, id sagittis orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer nibh ipsum, rhoncus eu sollicitudin vel, vehicula eu quam. Aliquam erat volutpat. Maecenas posuere orci eleifend, maximus ex vel, fringilla leo. Vivamus et dapibus mi. Nullam convallis, lorem tempor laoreet sodales, nibh diam volutpat magna, nec feugiat odio metus at lacus. Proin rhoncus magna non mauris sagittis rutrum. Proin eleifend pellentesque orci, sed blandit enim ornare et. Integer quis dui nunc. Suspendisse gravida dui vitae justo consectetur, ac euismod elit venenatis. Etiam malesuada metus quam, at tincidunt enim pellentesque sed."
+    },
+    {
+        "name": "Brian E.",
+        "location": "Sycamore, IL",
+        "category": "Criminal Law",
+        "rating": 5,
+        "content": "Aliquam ex neque, tempor ac gravida et, fermentum ornare ante. Donec sed dolor et sem tristique rhoncus in nec tellus. Quisque aliquam neque nec ante euismod mattis. Etiam sagittis lectus dui, sed malesuada ex dignissim eu. Pellentesque ornare congue auctor. Phasellus suscipit nibh id velit mollis venenatis. Quisque quis augue vel libero aliquam ultrices vel sed ipsum. Cras vehicula felis at augue fringilla, eu aliquam est interdum. Vivamus sodales odio eros, id imperdiet sem suscipit in. Ut varius sapien vel ligula rhoncus, a suscipit justo semper. Aliquam vel elit nisl. Maecenas ullamcorper tellus non feugiat porta. Vivamus nec rhoncus quam. Proin vulputate tortor et risus tincidunt scelerisque. Maecenas a dolor dapibus arcu imperdiet iaculis."
+    },
+    {
+        "name": "Andrew D.",
+        "location": "Hunt Valley, MD",
+        "category": "Employment and Labor Law",
+        "rating": 4,
+        "content": "Integer et tellus lectus. Nullam nec nulla sed nibh placerat laoreet nec eget neque. Proin sed commodo quam, ac malesuada neque. Suspendisse venenatis eleifend dui, ac aliquet nulla auctor dignissim. Ut lorem urna, rhoncus id euismod vitae, blandit et mi. Quisque feugiat tincidunt blandit. Nullam malesuada mollis ex accumsan porta. Nam venenatis erat non lorem elementum varius. Phasellus rutrum dolor sit amet nisl scelerisque, ac ultrices felis commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam vel urna tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas in sagittis magna. Nunc ac fermentum nunc, eget sollicitudin nisl."
+    },
+    {
+        "name": "Richard S.",
+        "location": "Seattle, WA",
+        "category": "Personal Injury",
+        "rating": 4,
+        "content": "Donec sit amet rhoncus lorem, vel sagittis turpis. Mauris fringilla posuere nibh, nec vestibulum nisi lobortis quis. Mauris efficitur ultricies ipsum, at mattis orci vulputate vitae. Praesent eget commodo mauris. Maecenas diam est, tincidunt ac eleifend eget, imperdiet ac risus. Aenean dolor velit, venenatis vel dapibus non, iaculis et ex. Proin condimentum felis tellus, vel fermentum lorem aliquet quis. Proin quis molestie lectus. Fusce rutrum nulla vel neque imperdiet pharetra. Morbi vulputate tortor efficitur auctor porta. Curabitur convallis aliquet euismod."
+    },
+    {
+        "name": "Christine C.",
+        "location": "Houston, TX",
+        "category": "Criminal Law",
+        "rating": 5,
+        "content": "Praesent at libero placerat, eleifend magna vitae, varius tellus. Nulla erat mauris, varius in fermentum varius, posuere sit amet elit. In dignissim ut ipsum non maximus. Praesent tempus imperdiet nisi, non finibus odio egestas eget. Curabitur suscipit varius leo a fringilla. Sed sagittis risus sit amet suscipit bibendum. Donec maximus, lorem non tincidunt maximus, urna mauris condimentum massa, vitae mollis diam nunc eu ex. Aenean commodo consectetur scelerisque."
+    },
+    {
+        "name": "Alan G.",
+        "location": "New York City, NY",
+        "category": "Bankruptcy, Banking and Credit",
+        "rating": 4,
+        "content": "In tincidunt finibus ligula faucibus tincidunt. In commodo nulla sed ante convallis lacinia. Vivamus eleifend mollis justo, at finibus ex feugiat nec. Mauris imperdiet ante quis dignissim facilisis. Suspendisse pharetra at sem in convallis. Nunc vel arcu eu ipsum lacinia sagittis nec vel nisi. Sed placerat felis nisi, quis lobortis libero sollicitudin blandit. Curabitur cursus, nisi eget ullamcorper suscipit, neque erat cursus mi, non sollicitudin libero justo in tellus. Sed condimentum euismod dui nec scelerisque. Sed id quam volutpat, lobortis leo et, vehicula sem. Aliquam erat volutpat. Sed nec tincidunt turpis. In gravida a tellus sit amet maximus. Nunc ultricies lacus id diam porta, a iaculis ante dictum."
+    },
+    {
+        "name": "Shannon J.",
+        "location": "Memphis, TN",
+        "category": "Family Law",
+        "rating": 5,
+        "content": "In vel congue libero. Morbi vel urna ac urna egestas suscipit. Nunc tempus justo sem, id sollicitudin lacus vestibulum eu. Quisque eu magna ut nulla tincidunt blandit ut ut nunc. Cras erat justo, sodales et ultrices vel, pharetra vel elit. Cras volutpat est et enim bibendum mattis. Aliquam a elit et enim ultricies hendrerit. Nullam pellentesque accumsan lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis eleifend velit quis rhoncus fringilla. Proin ullamcorper, dui at accumsan lobortis, dolor lectus vestibulum turpis, nec consequat libero eros vitae urna. Nam leo enim, sollicitudin eu lacus in, cursus eleifend leo. Nulla lectus nisi, dapibus eu odio non, dignissim accumsan urna. Donec semper sed metus vel dictum."
+    },
+    {
+        "name": "David L.",
+        "location": "Chicago, IL",
+        "category": "Wills, Trusts and Estates",
+        "rating": 3,
+        "content": "Vivamus tempor, eros ut faucibus molestie, massa felis iaculis mauris, non laoreet ex nisl quis mauris. Nam porta mauris at gravida ultricies. Pellentesque rutrum metus sed purus blandit dignissim. Cras at mauris lectus. Fusce quis euismod tortor. Cras varius sit amet dui in laoreet. Proin eu vehicula ipsum. Nulla suscipit mauris lectus, ut congue arcu hendrerit vel. Sed et hendrerit dui. Curabitur mollis urna nec massa venenatis facilisis. Sed at leo eu nisi iaculis bibendum. Pellentesque placerat, metus eget efficitur luctus, est ipsum semper arcu, vel sagittis mi turpis eu nisl. Etiam malesuada convallis quam. Vivamus pulvinar semper turpis eu aliquet. Donec sodales nibh metus, et tempor lectus aliquet sit amet."
+    },
+    {
+        "name": "Craig A.",
+        "location": "Camas, WA",
+        "category": "Wills, Trusts and Estates",
+        "rating": 4,
+        "content": "Nunc sed sapien at dolor molestie varius et viverra tortor. Vestibulum non lacus nisl. Nulla eu sagittis justo, posuere condimentum justo. Nam mattis urna a purus ultricies aliquet. Maecenas purus tellus, tincidunt in venenatis et, commodo sed libero. Fusce efficitur molestie nibh, id placerat turpis accumsan at. Duis erat leo, consequat sit amet nunc nec, lobortis molestie tellus. Etiam malesuada ullamcorper purus. Morbi ornare tincidunt velit ac varius. Quisque sapien justo, efficitur at dolor ut, ultrices sollicitudin lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam tempor ultricies ligula. Ut eleifend nec risus at aliquet. In eu ante posuere, facilisis nisi sed, porta ex."
+    },
+    {
+        "name": "Sheri P.",
+        "location": "Mount Laurel, NJ",
+        "category": "Wills, Trusts and Estates",
+        "rating": 5,
+        "content": "Donec pulvinar lobortis risus eget tincidunt. Sed non neque faucibus tortor gravida suscipit sit amet a mi. Suspendisse eu magna vel justo pretium pellentesque eget sit amet ante. Suspendisse potenti. Vivamus in eleifend eros. Praesent eu turpis feugiat, viverra sem at, vulputate diam. Quisque eu porta sem. Duis non dictum augue, in porta mauris. Vivamus ultricies mollis felis, eu vulputate erat luctus ac. Praesent volutpat leo at ex euismod porta. Nunc consectetur laoreet turpis quis lacinia. Morbi feugiat justo libero, in ornare diam dapibus ac. Nam quis iaculis ipsum, vitae pellentesque nulla."
+    },
+    {
+        "name": "Alfred C.",
+        "location": "Locust Valley, NY",
+        "category": "Business - Litigation",
+        "rating": 4,
+        "content": "Pellentesque a sem sed lectus lacinia ultricies. Aenean auctor efficitur sodales. Maecenas ac blandit dolor. Phasellus a viverra nunc. Nam a ultricies dolor. Ut ac ante eget nisl cursus rutrum. Suspendisse tempus nisl id dolor hendrerit, quis sagittis ante finibus. Nam at ultrices ante. Sed commodo pellentesque tortor quis bibendum. Donec rhoncus eget nibh at dapibus. Sed cursus efficitur libero id pellentesque. Duis vestibulum mauris eget enim finibus facilisis. Donec at erat dictum, eleifend purus et, porta metus. Fusce blandit maximus mauris, vitae sagittis libero iaculis quis."
+    },
+    {
+        "name": "Gregory S.",
+        "location": "Cypress, TX",
+        "category": "Wills, Trusts and Estates",
+        "rating": 5,
+        "content": "In mollis, dui sit amet efficitur sollicitudin, purus urna posuere mi, eu lacinia augue nisi rhoncus augue. Nullam lorem nunc, sollicitudin eget euismod euismod, posuere tincidunt ante. Mauris scelerisque id urna aliquam consectetur. Nunc id leo non tortor tincidunt semper sed vel purus. Aenean venenatis commodo quam, a dignissim neque gravida non. Donec viverra elit felis. Proin ornare odio blandit, blandit tellus eu, porttitor ligula. Donec nec orci ac leo dictum viverra a id augue. Donec vehicula dictum augue, ut blandit velit luctus ut. Vestibulum eget volutpat mi. Nunc a tellus eget massa volutpat ultricies scelerisque euismod ipsum."
+    }
+]

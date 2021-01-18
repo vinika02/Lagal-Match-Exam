@@ -1,0 +1,14 @@
+{
+    "name": "baxtian/php-singleton",
+    "type": "library",
+    "description": "PHP Trait Singleton",
+		"license": "GPL-3.0-or-later",
+	    "require": {
+	        "php": "^7.0"
+	    },
+		"autoload": {
+	      "psr-4": {
+	        "Baxtian\\": "src/"
+	      }
+	    }
+}

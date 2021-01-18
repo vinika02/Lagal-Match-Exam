@@ -1,0 +1,300 @@
+.te_settings_tabs {
+	padding:15px 10px;
+}
+.te_settings_tabs ul {
+    background: #0085ba;
+    width: 100%;
+    clear: both;
+	margin: 0;
+	padding: 0 !important;
+}
+.te_settings_tabs li{
+	float: none !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.msEditorContentWrap{
+	border:1px solid #ddd;
+	padding-bottom: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#404040;
+}
+.te_settings_tabs li a {
+    width: 33.3333%;
+	float: left;
+	background: #fff;
+	padding: 20px 2px !important;
+	text-align: center;
+	color: #fff !important;
+	text-decoration: none;
+	font-size: 17px;
+	box-shadow: none;
+	box-sizing: border-box;
+	background: #267ddd;
+	font-family: Arial, Helvetica, sans-serif;
+	border-right: 1px solid #4091ea;
+	transition:all 0.5s ease;
+	-webkit-transition:all 0.5s ease;
+}
+.te_settings_tabs.twoTabs li a {
+	width:50%;
+}
+.te_settings_tabs li a:hover {
+	background: #1763b7;
+	transition:all 0.5s ease;
+	-webkit-transition:all 0.5s ease;
+}
+.te_settings_tabs li:last-child a {border-right:none;}
+.te_settings_tabs li.ui-tabs-active a {
+	background: #ffffff;
+	border-bottom: none;
+	background: #1763b7;
+	color: #fff;
+}
+.te_settings_tabs_sec {
+    background: #fff;
+    padding: 0px;
+    width: 100%;
+}
+.wrap.te-settings {
+	border: 1px solid #ddd;
+	background: #fff;
+	padding: 30px;
+}
+.msEditorWhiteWrap{
+	border: 1px solid #ddd;
+	background: #fff;
+	padding: 30px;
+}
+h1.headingTitle {
+	padding: 15px 0px;
+	color: #404040;
+	border-bottom: 1px solid #ddd;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	line-height: 30px;
+	font-weight: 700;
+	margin: 0;
+	padding-top: 0;
+	margin-bottom: 30px;
+}
+h1.headingTitle .headingicon {
+	float: left;
+	margin-right: 10px;
+	display: inline-block;
+}
+.te_submit_button{
+	padding-left:10px;
+	margin-top:0px !important;
+}
+.te_settings_tabs_sec .form-table th{
+	text-align: center;
+	width: 25%;
+}
+.wrap.te-settings .dashicons.dashicons-admin-settings {
+    font-size: 25px;
+    margin: 5px 0px;
+}
+.wters {
+ 	width: 100%;
+    background: #f5f5f5;
+    border: 1px solid #cdcdcd;
+    border-left: 4px solid #0073aa;
+	display: none;
+	overflow:auto;
+}
+.wters .l_wters { width:200px; float:left;}
+.wters .l_wters img {float: left; padding: 10px;}
+.wters .r_wters {float:left; padding:15px 10px;}
+.close_te_help {
+	text-decoration:none;
+    border-radius: 4px;
+	padding: 5px 15px;
+	color: #fff;
+	font-size: 16px;
+	margin:10px;
+	}
+.close_te_help:hover{ color:#fff !important;}
+.close_te_help.te_close_btn {
+   	float: right;
+    cursor: pointer;
+    text-decoration: none;
+    background: #e00e0e;
+    border-radius: 100%;
+    padding: 0px 6px;
+    display: block;
+    color: #fff;
+    font-size: 10px;
+	margin: 0px;
+}
+.close_te_help.te_close_btn_1 {
+    background: #fbc21c;
+    border-bottom: 3px solid #b18400;
+	margin-right:0px;
+	margin-left: 0;
+}
+.close_te_help.te_close_btn_2 {
+	 background: #239200;
+	border-bottom: 3px solid #155600;
+	margin-right:0px;
+}
+.close_te_help.te_close_btn_3 {
+	 background: #ff1105;
+	  border-bottom: 3px solid #b30900;
+}
+.te_settings_tabs li a span {
+    font-weight: 600;
+}
+.clear{ clear:both;}
+.btnDv{
+	padding:0 20px;
+}
+.btnDv .msEditorBtn {
+	background: #267ddd;
+	height: inherit !important;
+	line-height: normal !important;
+	text-shadow: none;
+	box-shadow: none;
+	padding: 12px 20px;
+	border: none;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.trBorderTbl tr{
+	border-bottom:1px solid #ddd;
+}
+.trBorderTbl tr:last-child{
+	border-bottom:none;
+}
+.trBorderTbl th, .trBorderTbl td{
+	padding:30px 20px;
+	vertical-align:middle;
+}
+.msStyledSelect{
+	appearance:none;
+	-moz-appearance:none;
+	-webkit-appearance:none;
+	background:#fff url('images/select-dropdown-icon.png');
+	background-repeat:no-repeat;
+	background-position: center right 15px;
+}
+.msEditorTxtb {
+	border: 1px solid #ddd;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	height: inherit !important;
+	line-height: normal !important;
+	padding: 8px !important;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 100%;
+}
+.emailExpandTbl{
+	margin:0;
+	background:#f4f4f4;
+}
+.emailExpandTbl th, .emailExpandTbl td{
+	padding:30px 15px;
+}
+.emailExpandTbl .msEditorTxtb{
+	width: 90%;
+}
+.emailExpandTbl .delete_ten_email {
+	margin-left: 5px;
+	display: inline-block;
+	position: relative;
+	width: 30px;
+	height: 18px;
+}
+.emailExpandTbl .delete_ten_email img {
+	top: 5px;
+	position: absolute;
+}
+.emailExpandTbl .add_more_ten_email {
+	background: #267ddd;
+	color: #fff;
+	border: none;
+	text-shadow: none;
+	font-size: 14px;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+	height: inherit !important;
+	line-height: normal !important;
+	padding: 12px 30px;
+	cursor: pointer;
+	border-radius: 30px;
+}
+.emailExpandTbl .more_ten_email {
+	margin-bottom: 15px;
+}
+.emailExpandTbl .admin-email-description{
+	margin-top:15px;
+}
+.te-access-control table.form-table.user_table th {
+	border: 1px solid #d2d2d2;
+	text-align: center;
+	padding: 20px 5px;
+	background: #e1e1e1;
+	color: #404040;
+	font-size: 12px;
+	line-height: 18px;
+	vertical-align: middle;
+	width: 7.666667%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 700;
+}
+.te-access-control .form-table.user_table td {
+    border: 1px solid #e0e0e0;
+	 color: #1763b7;
+}
+.te-access-control table.form-table.user_table tr:nth-child(even) {
+    background: #fff;
+}
+.te-access-control table.form-table.user_table tr:nth-child(odd) {
+    background: #f4f4f4;
+}
+.mtop30{
+	margin-top:30px;
+}
+.pad0{
+	padding:0;
+}
+@media screen and (max-width:767px){
+	.te_settings_tabs_sec .form-table td{
+		text-align:center;
+		padding:10px 0px;
+	}
+	.te_settings_tabs_sec .form-table input[type=radio]:checked:before{
+		margin: 3px;
+		height:7px;
+		width:7px;
+	}
+	.te_settings_tabs_sec .form-table input[type=radio], input[type=checkbox] {
+		height: 15px;
+		width: 15px;
+	}
+	.te_settings_tabs_sec .form-table td select {
+		height: 40px;
+		margin: auto;
+		max-width: 350px;
+	}
+	.te_settings_tabs li a{
+		font-size:16px;
+	}
+}
+@media screen and (max-width:374px){
+	.te_settings_tabs li a{
+		font-size:13px;
+	}
+}
+@media screen and (max-width:320px){
+	.te_settings_tabs_sec .form-table td select {
+		max-width: 250px;
+	}
+}
+
+.ms_theme_conatiner_full_width .CodeMirror{
+ width:100% !important;
+}
+
+

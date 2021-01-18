@@ -1,0 +1,16 @@
+#update wordpress
+docker run wp core update
+
+#install wp plugins
+docker run wp plugin install font-awesome
+
+#install npm
+docker run npm install
+
+#instll gulp and sass
+docker run npm install sass
+docker run npm install gulp --global
+docker run npm -g install gulp-cli
+docker run npm install --save-dev gulp gulp-plumber gulp-sass gulp-postcss autoprefixer gulp-group-css-media-queries browser-sync
+
+#docker run  wp post create --post_author=1 --post_type=Review --post_title='Reviews' --post-content='This is Fist post' --post_name='LMP review' --post_date='2021-01-0' --post_status= 'publish'

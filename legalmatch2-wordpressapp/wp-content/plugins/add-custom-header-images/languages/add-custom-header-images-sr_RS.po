@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Add Custom Header Images\n"
+"POT-Creation-Date: 2017-05-23 10:32-0700\n"
+"PO-Revision-Date: 2017-05-23 10:32-0700\n"
+"Last-Translator: Andy Fragen <andy@thefragens.com>\n"
+"Language-Team: Andy Fragen <andy@thefragens.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: add-custom-header-images.php:44
+msgid "The Headers"
+msgstr "Zaglavlja"
+
+#: add-custom-header-images.php:69
+#, fuzzy, php-format
+msgid ""
+"Add Custom Header Images requires a page titled %sThe Headers%s with images "
+"and WordPress v3.4 or greater."
+msgstr ""
+"Add Custom Header Images zahteva stranicu pod nazivom <strong>Zaglavlja</"
+"strong> sa slikama i WordPress v3.4 ili noviju."
+
+#. Plugin Name of the plugin/theme
+msgid "Add Custom Header Images"
+msgstr "Add Custom Header Images"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/afragen/add-custom-header-images"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Remove default header images and add custom header images. Images must be "
+"added to new page titled <strong>The Headers</strong>.  Based upon a post "
+"from <a href=\"http://juliobiason.net/2011/10/25/twentyeleven-with-easy-"
+"rotating-header-images/\">Julio Biason</a>."
+msgstr ""
+"Uklonite podrazumevane slike zaglavlja i dodajte prilagođene slike "
+"zaglavlja. Slike se moraju dodati na novu stranicu pod nazivom "
+"<strong>Zaglavlja</strong>. Na osnovu posta sa <a href=\"http://juliobiason."
+"net/2011/10/25/twentyeleven-with-easy-rotating-header-images/\">Julio "
+"Biason</a>."
+
+#. Author of the plugin/theme
+msgid "Andy Fragen"
+msgstr "Andy Fragen"
+
+#. Author URI of the plugin/theme
+msgid "http://thefragens.com"
+msgstr ""

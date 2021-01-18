@@ -1,0 +1,146 @@
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+/* Clear floats after the columns */
+.header-navigation-wrapper {
+	font-size: 12px !important;
+	div {
+		&:before {
+			content: '✓ ';
+			color: #1ca74b;
+			font-weight: 1000;
+		}
+	}
+}
+.header-inner {
+	padding: 0px !important;
+}
+.customize-content {
+	color: white;
+	padding: 10px;
+}
+.label1 {
+	font-size: 40px !important;
+	font-weight: 200;
+}
+.label2 {
+	font-size: 28px;
+	font-weight: 500;
+	color: white;
+}
+.zp {
+	color: white;
+}
+.ccat {
+	color: white;
+}
+.clireview {
+	color: white;
+	font-weight: 300;
+}
+.customize-container {
+	background: linear-gradient(to bottom, #00427c 0%, #2969c8 100%);
+}
+.c-content {
+	width: 86%;
+	margin: 0px auto;
+}
+.column {
+	float: left;
+	width: 50%;
+	padding: 10px;
+	padding-top: 0px;
+}
+.col-left {
+	padding-right: 100px;
+}
+.column-footer-1 {
+	float: left;
+	width: 20.33%;
+}
+.column-footer-2 {
+	float: left;
+	width: 59.33%;
+	padding: 10px;
+}
+.column-footer-3 {
+	float: left;
+	width: 20.33%;
+	padding: 10px;
+}
+.link-footer {
+	li {
+		display: inline;
+	}
+}
+.center-text {
+	text-align: center;
+	color: gray;
+	font-size: 15px;
+}
+.footer-container {
+	padding-top: 30px;
+}
+.row {
+	&:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+.zip-or-city {
+	&:before {
+		content: "";
+	}
+}
+.wrapper {
+	input[type="text"] {
+		position: relative;
+	}
+	&:before {
+		color: white;
+		background: #e98509;
+		padding-left: 10px;
+		padding-right: 10px;
+		position: absolute;
+		z-index: 1;
+		border-radius: 100px;
+		content: "1";
+		margin-top: 12px;
+		margin-left: 12px;
+	}
+	input {
+		border-radius: 100px !important;
+		padding-left: 50px !important;
+		outline: none;
+	}
+}
+.wrapper2 {
+	&:before {
+		color: white;
+		background: #e98509;
+		padding-left: 10px;
+		padding-right: 10px;
+		position: absolute;
+		z-index: 1;
+		border-radius: 100px;
+		content: "2";
+		margin-top: 12px;
+		margin-left: 12px;
+	}
+	input {
+		border-radius: 100px !important;
+		padding-left: 50px !important;
+		outline: none;
+	}
+}
+.cant-find-cat {
+	color: white;
+	text-align: center;
+}
+@media screen and (max-width: 600px) {
+	.column-footer {
+		width: 100%;
+	}
+	.column {
+		width: 100%;
+	}
+}

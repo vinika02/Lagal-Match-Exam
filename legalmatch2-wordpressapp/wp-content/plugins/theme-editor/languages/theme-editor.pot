@@ -1,0 +1,267 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-12 11:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: app/view/plugin_editor.php:24 app/view/plugin_editor.php:27
+msgid "</span> (active)"
+msgstr ""
+
+#: app/view/plugin_editor.php:31 app/view/plugin_editor.php:34
+msgid "</span> (inactive)"
+msgstr ""
+
+#: app/view/plugin_editor.php:14
+msgid ""
+"<strong>This plugin is currently activated!<br />Warning:</strong> Making "
+"changes to active plugins is not recommended.\tIf your changes cause a fatal "
+"error, the plugin will be automatically deactivated."
+msgstr ""
+
+#: app/view/theme_editor.php:15
+msgid ""
+"<strong>This theme is currently activated!<br />Warning:</strong> Making "
+"changes to active themes is not recommended."
+msgstr ""
+
+#: app/view/settings.php:74
+msgid ""
+"Allows you to select theme for theme editor.<br/><strong>Default: </strong>"
+"Cobalt"
+msgstr ""
+
+#: app/view/theme_editor.php:31
+msgid "Browsing"
+msgstr ""
+
+#: app/view/plugin_editor.php:27 app/view/plugin_editor.php:34
+msgid "Browsing <span class=\"current_file\">"
+msgstr ""
+
+#: app/view/notify.php:3 app/view/permissions.php:3
+msgid "BUY PRO"
+msgstr ""
+
+#: app/view/settings.php:22
+msgid "Code Editor"
+msgstr ""
+
+#: app/view/settings.php:63
+msgid "Code Editor Theme"
+msgstr ""
+
+#: app/view/theme_editor.php:69
+msgid "Create"
+msgstr ""
+
+#: app/view/plugin_editor.php:177 app/view/theme_editor.php:194
+msgid "Create a New File: "
+msgstr ""
+
+#: app/view/plugin_editor.php:167 app/view/theme_editor.php:184
+msgid "Create a New Folder: "
+msgstr ""
+
+#. Description of the plugin
+msgid "create, edit, upload, download, delete Theme Files and folders"
+msgstr ""
+
+#: app/view/plugin_editor.php:194 app/view/theme_editor.php:211
+msgid "Current Theme Path: "
+msgstr ""
+
+#: app/view/settings.php:51
+msgid "Disable Default Plugin Editor?"
+msgstr ""
+
+#: app/view/settings.php:34
+msgid "Disable Default Theme Editor?"
+msgstr ""
+
+#: app/view/theme_editor.php:141
+msgid "Download File"
+msgstr ""
+
+#: app/view/theme_editor.php:142
+msgid "Download Theme"
+msgstr ""
+
+#: app/view/theme_editor.php:7
+msgid "Edit Themes"
+msgstr ""
+
+#: app/view/theme_editor.php:28
+msgid "Editing"
+msgstr ""
+
+#: app/view/plugin_editor.php:24 app/view/plugin_editor.php:31
+msgid "Editing <span class=\"current_file\">"
+msgstr ""
+
+#: app/view/settings.php:46
+msgid "Enable code editor for plugin"
+msgstr ""
+
+#: app/view/settings.php:29
+msgid "Enable code editor for theme"
+msgstr ""
+
+#: app/view/plugin_editor.php:204 app/view/theme_editor.php:221
+msgid "File Path which you want to remove: "
+msgstr ""
+
+#: app/view/plugin_editor.php:198 app/view/theme_editor.php:215
+msgid "Folder Path which you want to remove: "
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/mndpsingh287"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/theme-editor"
+msgstr ""
+
+#. Author of the plugin
+msgid "mndpsingh287"
+msgstr ""
+
+#: app/view/plugin_editor.php:182 app/view/theme_editor.php:199
+msgid "New File Name: "
+msgstr ""
+
+#: app/view/plugin_editor.php:179 app/view/theme_editor.php:196
+msgid "New File will be created in: "
+msgstr ""
+
+#: app/view/plugin_editor.php:172 app/view/theme_editor.php:189
+msgid "New Folder Name: "
+msgstr ""
+
+#: app/view/plugin_editor.php:169 app/view/theme_editor.php:186
+msgid "New folder will be created in: "
+msgstr ""
+
+#: app/view/settings.php:30 app/view/settings.php:35 app/view/settings.php:47
+#: app/view/settings.php:52
+msgid "No"
+msgstr ""
+
+#: app/view/notify.php:4 app/view/permissions.php:3
+msgid "Note: This is just a screenshot. Buy PRO Version for this feature."
+msgstr ""
+
+#: app/view/notify.php:3
+msgid "Notifications"
+msgstr ""
+
+#: app/view/plugin_editor.php:155 app/view/theme_editor.php:171
+msgid "Optional: Sub-Directory"
+msgstr ""
+
+#: app/view/settings.php:21
+msgid "Plugin Editor"
+msgstr ""
+
+#: app/view/plugin_editor.php:67
+msgid "Plugin Files"
+msgstr ""
+
+#: app/view/theme_editor.php:69
+msgid "Remove "
+msgstr ""
+
+#: app/view/plugin_editor.php:203 app/view/theme_editor.php:220
+msgid "Remove File: "
+msgstr ""
+
+#: app/view/plugin_editor.php:197 app/view/theme_editor.php:214
+msgid "Remove Folder: "
+msgstr ""
+
+#: app/view/plugin_editor.php:60 app/view/theme_editor.php:67
+msgid "Select"
+msgstr ""
+
+#: app/view/plugin_editor.php:42
+msgid "Select plugin to edit:"
+msgstr ""
+
+#: app/view/theme_editor.php:38
+msgid "Select theme to edit:"
+msgstr ""
+
+#: app/view/settings.php:9
+msgid "Settings"
+msgstr ""
+
+#. Name of the plugin
+#: app/view/settings.php:20
+msgid "Theme Editor"
+msgstr ""
+
+#: app/view/theme_editor.php:76
+msgid "Theme Files"
+msgstr ""
+
+#: app/view/settings.php:53
+msgid ""
+"This will Enable/Disable the Default plugin editor.<br/><strong>Default: "
+"</strong>Yes"
+msgstr ""
+
+#: app/view/settings.php:36
+msgid ""
+"This will Enable/Disable the Default theme editor.<br/><strong>Default: "
+"</strong>Yes"
+msgstr ""
+
+#: app/view/settings.php:48
+msgid ""
+"This will Enable/Disable the plugin editor.<br/><strong>Default: </strong>Yes"
+msgstr ""
+
+#: app/view/settings.php:31
+msgid ""
+"This will Enable/Disable the theme editor.<br/><strong>Default: </strong>Yes"
+msgstr ""
+
+#: app/view/plugin_editor.php:152 app/view/theme_editor.php:168
+msgid "To"
+msgstr ""
+
+#: app/view/theme_editor.php:138
+msgid "Update File"
+msgstr ""
+
+#: app/view/theme_editor.php:136
+msgid "Update File and Attempt to Reactivate"
+msgstr ""
+
+#: app/view/theme_editor.php:69
+msgid "Upload"
+msgstr ""
+
+#: app/view/plugin_editor.php:148 app/view/theme_editor.php:164
+msgid "Upload "
+msgstr ""
+
+#: app/view/plugin_editor.php:191 app/view/theme_editor.php:208
+msgid "Warning: Please be careful before remove any folder or file."
+msgstr ""
+
+#: app/view/settings.php:30 app/view/settings.php:35 app/view/settings.php:47
+#: app/view/settings.php:52
+msgid "Yes"
+msgstr ""

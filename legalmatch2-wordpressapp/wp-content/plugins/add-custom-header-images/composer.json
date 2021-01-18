@@ -1,0 +1,27 @@
+{
+  "name": "afragen/add-custom-header-images",
+  "description": "Remove default header images and load custom header images from 'The Headers' page. Allows for easy selection of random header images in your theme.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Andy Fragen",
+      "email": "andy@thefragens.com",
+      "homepage": "https://thefragens.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/afragen/add-custom-header-images/issues",
+    "source": "https://github.com/afragen/add-custom-header-images"
+  },
+  "prefer-stable": true,
+  "require": {
+    "php": ">=5.6"
+  },
+  "scripts": {
+    "post-update-cmd": [
+      "wp i18n make-pot . languages/add-custom-header-images.pot"
+    ]
+  }
+}

@@ -9,4 +9,6 @@ Instructions
 
   docker build .
 
+4. please setup this wordpress folder legalmatch2-wordpressapp
+
    
